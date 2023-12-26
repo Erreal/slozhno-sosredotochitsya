@@ -359,7 +359,10 @@
     gap: 20px;
   }
 
-  .content__subtitle,
+  .content__subtitle {
+    margin-top: 0;
+  }
+
   .content__list-title_why:first-child {
     margin-top: 0;
   }
@@ -424,7 +427,10 @@
 }
 
 @media screen and (width >=1024px) {
-  .page,
+  .page {
+    max-width: 1024px;
+  }
+
   footer {
     max-width: 1024px;
   }
@@ -434,7 +440,7 @@
   }
 
   .header__slogan {
-    margin-top: -20px;
+    padding-bottom: 10px;
   }
 
   .header__theme-menu {
@@ -469,7 +475,10 @@
     gap: 20px;
   }
 
-  .content__subtitle,
+  .content__subtitle {
+    margin-top: 0;
+  }
+
   .content__list-title_why:first-child {
     margin-top: 0;
   }
