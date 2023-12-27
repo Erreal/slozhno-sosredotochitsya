@@ -16,6 +16,7 @@
   --background-color: #000028;
   --background-image: url(../images/cover-image-dark.png);
   --button-color: #ff0070;
+  --button-hover-border: 1px solid rgba(255, 0, 112, 0.40);
   --title-of-section: #ff0070;
   --shadow-color: #ff0070;
   --focus-color: #ff0070;

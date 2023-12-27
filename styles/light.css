@@ -16,6 +16,7 @@
   --background-color: #fff1f7;
   --background-image: url(../images/cover-image-light.png);
   --button-color: #353430;
+  --button-hover-border: 1px solid rgba(50, 49, 45, 0.40);
   --title-of-section: #353430;
   --shadow-color: #ff8dcb;
   --focus-color: #353430;
@@ -31,6 +32,7 @@
     --background-color: #fff1f7;
     --background-image: url(../images/cover-image-light.png);
     --button-color: #353430;
+    --button-hover-border: 1px solid rgba(50, 49, 45, 0.40);
     --title-of-section: #353430;
     --font: "IBM Plex Mono", sans-serif;
     --shadow-color: #ff8dcb;
